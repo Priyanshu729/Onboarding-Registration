@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Onboarding-Registration/static/css/main.af233c1d.css",
+    "main.js": "/Onboarding-Registration/static/js/main.a2745f82.js",
+    "static/media/Frame 1.jpg": "/Onboarding-Registration/static/media/Frame 1.7a2ea362d7cfb4d4d102.jpg",
+    "static/media/red-x-line-icon.svg": "/Onboarding-Registration/static/media/red-x-line-icon.ed2cfb5666f3526167885688a1439929.svg",
+    "static/media/briefcase.svg": "/Onboarding-Registration/static/media/briefcase.ad00b1f00cbbf6e8298658ac0a560706.svg",
+    "static/media/user.svg": "/Onboarding-Registration/static/media/user.849cffaf4f6c45cc777fac4a86f52908.svg",
+    "static/media/flat-color-icons_google.svg": "/Onboarding-Registration/static/media/flat-color-icons_google.18ef60f6564612aabda453c5bf38f2a3.svg",
+    "index.html": "/Onboarding-Registration/index.html",
+    "static/media/circle check full.svg": "/Onboarding-Registration/static/media/circle check full.62c20811365fda73da9baf1bb5aecdec.svg",
+    "static/media/lock.svg": "/Onboarding-Registration/static/media/lock.150371149d4fb612ac230f05b3c68e1b.svg",
+    "static/media/arrow-right.svg": "/Onboarding-Registration/static/media/arrow-right.ada3643cd72a9711d874bd8bbd6de078.svg",
+    "static/media/Polygon 2.svg": "/Onboarding-Registration/static/media/Polygon 2.f6ba1caebe84f9208b0e95c4b07233ad.svg",
+    "static/media/Polygon 1.svg": "/Onboarding-Registration/static/media/Polygon 1.564ca265a667abc8a62731c30b3a2f21.svg",
+    "main.af233c1d.css.map": "/Onboarding-Registration/static/css/main.af233c1d.css.map",
+    "main.a2745f82.js.map": "/Onboarding-Registration/static/js/main.a2745f82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af233c1d.css",
+    "static/js/main.a2745f82.js"
+  ]
+}
